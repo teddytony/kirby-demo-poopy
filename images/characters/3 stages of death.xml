@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="3 stages of death.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf Death0000" x="0" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0001" x="1424" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0002" x="2848" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0003" x="4272" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0004" x="4272" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0005" x="5696" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0006" x="5696" y="0" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0007" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0008" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0009" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0010" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0011" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0012" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0013" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0014" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0015" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0016" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0017" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0018" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0019" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0020" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0021" x="0" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0022" x="1424" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0023" x="1424" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0024" x="2848" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0025" x="4272" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0026" x="4272" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0027" x="5696" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0028" x="5696" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0029" x="0" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0030" x="0" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0031" x="1424" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0032" x="1424" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0033" x="1424" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0034" x="1424" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0035" x="5696" y="1008" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0036" x="2848" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0037" x="2848" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0038" x="4272" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0039" x="4272" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0040" x="5696" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0041" x="5696" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0042" x="5696" y="2016" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0043" x="0" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0044" x="0" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0045" x="0" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0046" x="1424" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0047" x="1424" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0048" x="1424" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0049" x="1424" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0050" x="1424" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0051" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0052" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0053" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0054" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0055" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0056" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death0057" x="2848" y="3024" width="1424" height="1008"/>
+	<SubTexture name="Bf Death loopy0000" x="4272" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0001" x="4955" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0002" x="4955" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0003" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0004" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0005" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0006" x="6321" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0007" x="7004" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0008" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0009" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0010" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0011" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0012" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0013" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0014" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0015" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0016" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0017" x="4272" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0018" x="4955" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0019" x="4955" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0020" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0021" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0022" x="5638" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0023" x="6321" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0024" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0025" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0026" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0027" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0028" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0029" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0030" x="7004" y="3024" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0031" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0032" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf Death loopy0033" x="0" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0000" x="683" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0001" x="1366" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0002" x="1366" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0003" x="2049" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0004" x="2049" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0005" x="2732" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0006" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0007" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0008" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0009" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0010" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0011" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0012" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0013" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0014" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0015" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0016" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0017" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0018" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0019" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0020" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0021" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0022" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0023" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0024" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0025" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0026" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0027" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0028" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0029" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0030" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0031" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0032" x="3415" y="4032" width="683" height="729"/>
+	<SubTexture name="Bf confrim0033" x="3415" y="4032" width="683" height="729"/>
+</TextureAtlas>

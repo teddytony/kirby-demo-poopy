@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tiff_Casing_Death.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Death tiff0000" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0001" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0002" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0003" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0004" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0005" x="0" y="0" width="409" height="432" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0006" x="409" y="0" width="409" height="440" frameX="-261" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0007" x="818" y="0" width="494" height="486" frameX="-209" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0008" x="1312" y="0" width="529" height="463" frameX="-196" frameY="-237" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0009" x="1312" y="0" width="529" height="463" frameX="-196" frameY="-237" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0010" x="1841" y="0" width="626" height="729" frameX="-144" frameY="-27" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0011" x="2467" y="0" width="626" height="739" frameX="-144" frameY="-17" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0012" x="3093" y="0" width="703" height="767" frameX="-103" frameY="-16" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0013" x="3796" y="0" width="703" height="773" frameX="-103" frameY="-10" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0014" x="4499" y="0" width="821" height="806" frameX="-49" frameY="-15" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0015" x="5320" y="0" width="927" height="874" frameX="0" frameY="-8" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0016" x="6247" y="0" width="927" height="850" frameX="0" frameY="-32" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0017" x="7174" y="0" width="434" height="403" frameX="-249" frameY="-29" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0018" x="7608" y="0" width="399" height="437" frameX="-284" frameY="-1" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0019" x="7608" y="0" width="399" height="437" frameX="-284" frameY="-1" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0020" x="0" y="874" width="437" height="393" frameX="-245" frameY="0" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0021" x="0" y="874" width="437" height="393" frameX="-245" frameY="0" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0022" x="0" y="0" width="409" height="432" frameX="-261" frameY="-5" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0023" x="0" y="0" width="409" height="432" frameX="-261" frameY="-5" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0024" x="7174" y="0" width="434" height="403" frameX="-249" frameY="-71" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0025" x="7174" y="0" width="434" height="403" frameX="-249" frameY="-71" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0026" x="7608" y="0" width="399" height="437" frameX="-284" frameY="-115" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0027" x="7608" y="0" width="399" height="437" frameX="-284" frameY="-115" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0028" x="437" y="874" width="437" height="393" frameX="-245" frameY="-194" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0029" x="437" y="874" width="437" height="393" frameX="-245" frameY="-194" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0030" x="874" y="874" width="330" height="579" frameX="-301" frameY="-266" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0031" x="874" y="874" width="330" height="579" frameX="-301" frameY="-266" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0032" x="874" y="874" width="330" height="579" frameX="-301" frameY="-637" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0033" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0034" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0035" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0036" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0037" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0038" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0039" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0040" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0041" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0042" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0043" x="1204" y="874" width="0" height="0" frameX="-522" frameY="-222" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0044" x="1204" y="874" width="0" height="0" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0045" x="1204" y="874" width="769" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0046" x="1973" y="874" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0047" x="2742" y="874" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0048" x="3511" y="874" width="770" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0049" x="4281" y="874" width="769" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0050" x="5050" y="874" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0051" x="5819" y="874" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0052" x="6588" y="874" width="770" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0053" x="7358" y="874" width="769" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0054" x="0" y="1453" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0055" x="769" y="1453" width="769" height="116" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0056" x="1538" y="1453" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff0057" x="2307" y="1453" width="769" height="117" frameX="-76" frameY="-438" frameWidth="927" frameHeight="1215"/>
+	<SubTexture name="Death tiff confirm0000" x="3076" y="1453" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0001" x="4302" y="1453" width="1225" height="645" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0002" x="5527" y="1453" width="1225" height="645" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0003" x="6752" y="1453" width="1225" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0004" x="0" y="2098" width="1226" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0005" x="1226" y="2098" width="1225" height="637" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0006" x="2451" y="2098" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0007" x="3676" y="2098" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0008" x="4901" y="2098" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0009" x="6127" y="2098" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0010" x="0" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0011" x="1225" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0012" x="2450" y="2735" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0013" x="3676" y="2735" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0014" x="4901" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0015" x="6126" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0016" x="2450" y="2735" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0017" x="3676" y="2735" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0018" x="4901" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0019" x="6126" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0020" x="2450" y="2735" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0021" x="3676" y="2735" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0022" x="4901" y="2735" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0023" x="0" y="3371" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0024" x="1225" y="3371" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0025" x="2451" y="3371" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0026" x="3676" y="3371" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0027" x="4901" y="3371" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0028" x="6126" y="3371" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0029" x="0" y="4007" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0030" x="1225" y="4007" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0031" x="2450" y="4007" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0032" x="3675" y="4007" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff confirm0033" x="3676" y="2735" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0000" x="3076" y="1453" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0001" x="4901" y="4007" width="1225" height="645" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0002" x="6126" y="4007" width="1225" height="645" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0003" x="0" y="4652" width="1225" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0004" x="1225" y="4652" width="1226" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0005" x="2451" y="4652" width="1225" height="637" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0006" x="3676" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0007" x="4901" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0008" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0009" x="0" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0010" x="1225" y="5289" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0011" x="4901" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0012" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0013" x="0" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0014" x="1225" y="5289" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0015" x="4901" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0016" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0017" x="2450" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0018" x="6126" y="4007" width="1225" height="645" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0019" x="3675" y="5289" width="1225" height="645" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0020" x="1225" y="4652" width="1226" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0021" x="2451" y="4652" width="1225" height="637" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0022" x="4900" y="5289" width="1225" height="637" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0023" x="6125" y="5289" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0024" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0025" x="0" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0026" x="1225" y="5289" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0027" x="4901" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0028" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0029" x="0" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0030" x="1225" y="5289" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0031" x="4901" y="4652" width="1225" height="634" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0032" x="6126" y="4652" width="1226" height="636" frameX="0" frameY="0" frameWidth="1226" frameHeight="645"/>
+	<SubTexture name="Death tiff loop0033" x="0" y="5289" width="1225" height="635" frameX="-1" frameY="0" frameWidth="1226" frameHeight="645"/>
+</TextureAtlas>
