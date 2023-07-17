@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Man_Dead_assets.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dead man0000" x="0" y="0" width="976" height="403"/>
+	<SubTexture name="Dead man0001" x="0" y="0" width="976" height="403"/>
+	<SubTexture name="Dead man0002" x="0" y="403" width="976" height="403"/>
+	<SubTexture name="Dead man0003" x="0" y="403" width="976" height="403"/>
+</TextureAtlas>

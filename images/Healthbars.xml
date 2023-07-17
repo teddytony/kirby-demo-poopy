@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Healthbars.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bf non pixel Health Bar0000" x="0" y="0" width="397" height="121"/>
+	<SubTexture name="Casing Kirby Health Bar0000" x="397" y="0" width="400" height="114"/>
+	<SubTexture name="Deathly Sorrow Health Bar0000" x="0" y="121" width="400" height="114"/>
+	<SubTexture name="Meta Knight Health Bar0000" x="400" y="121" width="397" height="121"/>
+	<SubTexture name="Putrefaction Kirby Health Bar0000" x="0" y="242" width="400" height="114"/>
+	<SubTexture name="Stuffed Kirby Health Bar0000" x="400" y="242" width="400" height="114"/>
+	<SubTexture name="Tiff Health Bar0000" x="0" y="356" width="397" height="121"/>
+	<SubTexture name="Tuff Health Bar0000" x="397" y="356" width="397" height="121"/>
+</TextureAtlas>
