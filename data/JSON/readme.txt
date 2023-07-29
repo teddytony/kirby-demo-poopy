@@ -1,0 +1,1 @@
+Place JSON Files here. Only Freeplay,Splash,MainMenu, And gfDanceTitle ones. Every other JSON should be in their rightfully placed file.
